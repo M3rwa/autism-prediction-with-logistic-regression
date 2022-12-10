@@ -1,4 +1,4 @@
-# autism-prediction-with-logistic-regression
+# autism-prediction-with-logistic-regression التنبؤ بمرض التوحد
 
 # <b><font color ='purple'> About our problem </b> </font> 
  
