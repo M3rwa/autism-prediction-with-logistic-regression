@@ -45,15 +45,3 @@ To use this project, follow these steps:
 4. Open the notebook (`autism-prediction-with-logistic-regression.ipynb`) in your Jupyter Notebook interface.
 5. Follow the instructions within the notebook to execute the code cells and understand the steps involved in autism prediction using logistic regression.
 6. Modify and experiment with the code as desired to adapt it to your own prediction tasks or datasets.
-
-## Acknowledgments
-
-The techniques and methodologies employed in this project may be based on existing research, tutorials, or examples. Please refer to the notebook itself for any acknowledgments or references to external sources that may have been used.
-
-## License
-
-The repository does not specify any specific license for the code. If you plan to use or distribute the code, it is advisable to contact the repository owner or refer to any licensing information provided within the notebook itself.
-
-## Conclusion
-
-The `autism-prediction-with-logistic-regression.ipynb` notebook in this repository serves as a practical example of utilizing logistic regression for predicting the likelihood of having autism. By understanding the code and concepts presented in the notebook, you can gain insights into applying machine learning techniques to assist in autism screening and resource allocation in the healthcare domain.
